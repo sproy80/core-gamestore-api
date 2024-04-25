@@ -1,0 +1,29 @@
+GET http://localhost:5055/games
+###
+
+GET http://localhost:5055/games/4
+
+###
+
+POST http://localhost:5055/games/
+Content-Type: application/json
+
+{
+    "name" : "Bay Watch",
+    "genre": "Comedy",
+    "price" : 5.5,
+    "ReleasedDate" : "2011-11-18"
+
+}
+
+###
+
+PUT http://localhost:5055/games/4
+Content-Type: application/json
+
+{
+  "name": "Bay Watch",
+  "genre": "Comedy Thriller",
+  "price": 5,
+  "relasedDate": "0001-01-01"
+}
