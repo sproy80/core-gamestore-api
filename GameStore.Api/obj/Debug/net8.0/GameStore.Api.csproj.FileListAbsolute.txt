@@ -23,3 +23,10 @@ F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\refin
 F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\bin\Debug\net8.0\MiniValidation.dll
+F:\Projects\Dotnet\core\test_core\GameStore\GameStore.Api\obj\Debug\net8.0\GameStor.5118A84D.Up2Date
