@@ -10,7 +10,7 @@ public static class GamesEndPoints
     new GameDto(2,"Exorist", "Horror",12M, new DateOnly(1972,6,10)),
     new GameDto(3,"Blood Sports", "Action",15M,new DateOnly(1994,2,21)) ];
 
-    public static WebApplication MapGamesEndPoints(this WebApplication app)
+    public static RouteGroupBuilder MapGamesEndPoints(this WebApplication app)
     {
 
         var group = app.MapGroup("games");
@@ -83,7 +83,7 @@ public static class GamesEndPoints
             return Results.NoContent();
         });
 
-        return app;
+        return group;
     }
 
 
